@@ -2,6 +2,6 @@ require "UrlCounter/version"
 
 module UrlCounter
   def self.hi
-    put "heyz"
+    puts "heyz"
   end
 end
