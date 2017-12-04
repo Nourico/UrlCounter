@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["h.nouri85@gmail.com"]
 
   spec.summary       = %q{Write a short summary, because RubyGems requires one.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Nourico/UrlCounter.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

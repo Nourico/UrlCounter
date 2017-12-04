@@ -1,5 +1,7 @@
 require "UrlCounter/version"
 
 module UrlCounter
-  # Your code goes here...
+  def self.hi
+    put "heyz"
+  end
 end
