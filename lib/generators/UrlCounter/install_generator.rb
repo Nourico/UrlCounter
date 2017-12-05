@@ -1,6 +1,6 @@
 module UrlCounter
   module Generators
-    class InitializerGenerator < Rails::Generators::Base
+    class InstallGenerator < Rails::Generators::Base
       def test
         puts 'hi'
       end
