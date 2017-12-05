@@ -2,7 +2,7 @@ require "UrlCounter/version"
 
 module UrlCounter
   def self.count(url, date)
-    UrlCounter::Url.where(:address => url, :visit_date => date).size
+    Url.where(:address => url, :visit_date => date).size
   end
 
 
