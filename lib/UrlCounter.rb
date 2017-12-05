@@ -1,7 +1,7 @@
 require "UrlCounter/version"
 
 module UrlCounter
-  def self.hi
-    "heyz"
+  def self.count(url, date)
+
   end
 end
