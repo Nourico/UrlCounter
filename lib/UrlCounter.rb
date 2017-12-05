@@ -1,5 +1,4 @@
 require "UrlCounter/version"
-require '../app/models/UrlCounter/url'
 
 module UrlCounter
   def self.count(url, date)
