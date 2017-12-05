@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f474a6-512c-49ef-bc58-ec4ee0071e38" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/UrlCounter.rb" afterPath="$PROJECT_DIR$/lib/UrlCounter.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/UrlCounter/version.rb" afterPath="$PROJECT_DIR$/lib/UrlCounter/version.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,8 +123,8 @@
         <option value="$PROJECT_DIR$/lib/generators/mongoid/counter_generator.rb" />
         <option value="$PROJECT_DIR$/lib/generators/template/my_table.rb" />
         <option value="$PROJECT_DIR$/app/models/UrlCounter/url.rb" />
-        <option value="$PROJECT_DIR$/lib/UrlCounter/version.rb" />
         <option value="$PROJECT_DIR$/lib/UrlCounter.rb" />
+        <option value="$PROJECT_DIR$/lib/UrlCounter/version.rb" />
       </list>
     </option>
   </component>
@@ -259,12 +258,12 @@
       <workItem from="1512484040999" duration="455000" />
       <workItem from="1512484567036" duration="2180000" />
       <workItem from="1512488071080" duration="2018000" />
-      <workItem from="1512498731436" duration="4202000" />
+      <workItem from="1512498731436" duration="5150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18618000" />
+    <option name="totallyTimeSpent" value="19566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -623,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/UrlCounter/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -643,6 +634,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/UrlCounter/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
       </provider>
