@@ -1,6 +1,6 @@
 module UrlCounter
   module Generators
-    class InstallGenerator < Rails::Generators::Base
+    class CounterGenerator < Rails::Generators::Base
       def testsdf
         puts 'hi'
       end
