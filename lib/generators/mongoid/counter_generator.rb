@@ -14,15 +14,8 @@ module Mongoid
         @prev_migration_nr.to_s
       end
 
-      def create_initializer_file
-        template 'initializer.rb', 'config/initializers/mailboxer.rb'
-      end
-
-      def copy_migrations
-        require 'rake'
-        Rails.application.load_tasks
-        Rake::Task['railties:install:migrations'].reenable
-        Rake::Task['mailboxer_engine:install:migrations'].invoke
+      def create_migration_file
+        migration_template 'my_table.rb', 'db/migrate/create_urls_table.rb'
       end
     end
   end
