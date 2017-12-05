@@ -1,4 +1,4 @@
-module UrlCounter
+module Mongoid
   module Generators
     class CounterGenerator < Rails::Generators::Base
       def testsdf
