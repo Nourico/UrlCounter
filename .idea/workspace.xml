@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f474a6-512c-49ef-bc58-ec4ee0071e38" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/generators/template/my_table.rb" afterPath="$PROJECT_DIR$/lib/generators/templates/my_table.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/generators/templates/my_table.rb" afterPath="$PROJECT_DIR$/lib/generators/mongoid/templates/my_table.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/UrlCounter/version.rb" afterPath="$PROJECT_DIR$/lib/UrlCounter/version.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,7 +88,7 @@
         </entry>
       </file>
       <file leaf-file-name="my_table.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/generators/templates/my_table.rb">
+        <entry file="file://$PROJECT_DIR$/lib/generators/mongoid/templates/my_table.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
@@ -179,6 +179,14 @@
               <item name="UrlCounter" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="mongoid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UrlCounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrlCounter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="mongoid" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -236,12 +244,12 @@
       <workItem from="1512484040999" duration="455000" />
       <workItem from="1512484567036" duration="2180000" />
       <workItem from="1512488071080" duration="2018000" />
-      <workItem from="1512498731436" duration="506000" />
+      <workItem from="1512498731436" duration="637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14922000" />
+    <option name="totallyTimeSpent" value="15053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -598,7 +606,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/templates/my_table.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/mongoid/templates/my_table.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
