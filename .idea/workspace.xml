@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f474a6-512c-49ef-bc58-ec4ee0071e38" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/generators/UrlCounter/install_generator.rb" afterPath="$PROJECT_DIR$/lib/generators/counter_generator.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/UrlCounter/version.rb" afterPath="$PROJECT_DIR$/lib/UrlCounter/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,8 +59,8 @@
       <file leaf-file-name="version.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/UrlCounter/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -206,12 +204,12 @@
       <updated>1512413459007</updated>
       <workItem from="1512413462087" duration="9763000" />
       <workItem from="1512484040999" duration="455000" />
-      <workItem from="1512484567036" duration="612000" />
+      <workItem from="1512484567036" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10830000" />
+    <option name="totallyTimeSpent" value="10862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -425,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/UrlCounter/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
